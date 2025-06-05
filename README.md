@@ -1,6 +1,7 @@
 # Coffee-Shop-CCD-Excel-Dashboard
 This is a Sales Analysis Interactive Dashboard in Excel where the dataset was taken from Kaggle. Below are the questions that this dashboard and analysis has helped us to uncover the insights from the data.
 
+---
 ## Questions
 1. How do sales vary by day of the week and hour of the day?
 2. Are there any peak times for sales for sales activity?
