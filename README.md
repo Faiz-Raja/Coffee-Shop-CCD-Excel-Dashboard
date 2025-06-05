@@ -11,5 +11,6 @@ This is a Sales Analysis Interactive Dashboard in Excel where the dataset was ta
 6. Which products are the bestselling in terms of quantity and revenue?
 7. How do sales vary by product category and type?
  ---
+**1. How do sales vary by day of the week and hour of the day?**
+Sales are highest on Mondays, Thursdays and Fridays with the peak of the sale on Friday (21701 orders) and are lowest on Saturdays (20,510 orders).
 
- 
