@@ -25,7 +25,7 @@ Yes, peak sales hours occur between 8 AM to 10 AM, with the highest order quanti
 ---
 **3. What is the total sales revenue for each month?**
 
-The top 3 months of sales were:
+**The top 3 months of sales were:**
 
 April: $1,18,941.08
 
@@ -54,7 +54,7 @@ This means the average order value is approximately $3.35 ($4.69 / 1.4), suggest
 ---
 **6. Which products are the best selling in terms of quantity and revenue?**
 
-Based on revenue, the Top 5 Products are:
+**Based on revenue, the Top 5 Products are:**
 
 • Barista Espresso – $91,406.20
 
