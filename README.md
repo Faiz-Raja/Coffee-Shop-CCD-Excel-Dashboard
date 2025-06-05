@@ -75,10 +75,11 @@ Barista Espresso stands out as the highest revenue-generating item, indicating b
 
 • Followed by Tea 28% and Bakery 12% of products.
 
----
-**Conclusion:** This dashboard captures multi-dimensional sales insights from a coffee shop business. The analysis spans temporal patterns (day/hour), location performance, product/category-wise trends, and customer behavior. This project demonstrates applied Excel analytics and dashboard storytelling skills, vital for data-driven decision-making roles.
 **Order Size (% Distribution):**
 
 Regular and Large orders each account for 31% ad 30% of total orders.
 
 Small orders represent only 9% of the total orders.
+
+---
+**Conclusion:** This dashboard captures multi-dimensional sales insights from a coffee shop business. The analysis spans temporal patterns (day/hour), location performance, product/category-wise trends, and customer behavior. This project demonstrates applied Excel analytics and dashboard storytelling skills, vital for data-driven decision-making roles.
